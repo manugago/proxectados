@@ -1,0 +1,83 @@
+personalID,nif,nombre,apellidos,movil,email,matricula,sedeID,areaID,puestoID,horarioID,usuarioID,empresaID,diasVacaciones,coste,objetivo,mantenimientos,planificacion,equipoID
+17,76914491F,Daniel,Ledo Martinez,,daniel.ledo@hacce.com,,2,4,1,9,5,2,30,2660.00,0.00,0.00,1,1
+18,77588783P,Josema,Morales,,jose.morales@hacce.com,,2,4,1,5,8,2,30,0.00,0.00,0.00,0,8
+19,36150436W,Raquel,SantamarÃ­a RodrÃ­guez,,raquel.santamaria@hacce.com,,2,4,1,15,4,2,30,2270.00,1.40,0.00,1,5
+20,36102613L,Jose A.,Fernandez Rodriguez,,jose.fernandez@hacce.com,,2,4,1,9,13,2,30,2425.00,1.50,0.00,1,4
+21,36169680H,Jorge,Fernandez Perez,,jorge.fernandez@hacce.com,,2,4,5,5,12,2,30,2450.00,1.40,0.00,1,1
+22,33341923L,Francisco Borja,Doel Vazquez,,borja.doel@hacce.com,,2,4,2,9,14,2,30,2700.00,1.40,0.00,1,1
+23,45645645Y,Maria,Novoa,,maria.novoa@hacce.com,,2,4,2,5,15,2,30,1925.00,1.40,0.00,1,3
+24,36126771G,Pablo,Lopez Dominguez,,pablo.lopez@hacce.com,,2,4,4,5,11,2,30,0.00,0.00,0.00,1,\N
+25,22222222J,Dpto.,AdministraciÃ³n,,dpto.administracion@hacce.com,,1,2,6,1,17,1,30,\N,\N,\N,0,\N
+26,36363636S,Sixtema, Admin,,info@sixtema.com,,4,6,9,8,18,3,30,\N,\N,\N,0,\N
+28,53115037X,Fran ,Sotelo RÃºa,,f.sotelo@sixtema.es,,4,9,9,8,21,3,,\N,\N,\N,0,\N
+29,79319901P,Alejandro,Lamas PÃ©rez,,a.lamas@sixtema.es,\N,4,6,8,8,22,3,,\N,\N,\N,0,\N
+30,77002877G,Alberto,LÃ³pez Amoedo,,a.lopez@sixtema.es,\N,4,10,7,8,23,3,,\N,\N,\N,0,\N
+31,35460329X,Ricardo,Cal Guiance,,r.cal@sixtema.es,\N,4,9,9,8,24,3,,\N,\N,\N,0,\N
+32,76930946V,XosÃ© Francisco,Portas ,,x.portas@sixtema.es,\N,4,9,9,8,25,3,,\N,\N,\N,0,\N
+33,44817971X,Xavier,Ãlvarez Carriba,,x.alvarez@sixtema.es,\N,4,9,9,8,26,3,,\N,\N,\N,0,\N
+34,11111111H,Julio,Dieste Dieste,,j.dieste@sixtema.es,\N,4,9,9,8,27,3,,\N,\N,\N,0,\N
+35,98765432M,Arturo,Capel,,arturo.capel@hacce.com,\N,2,4,1,14,29,2,,1800.00,1.50,0.00,1,4
+36,12345678Z,MarÃ­a,Lafuente,,jorge.fernandez@hacce.com,\N,2,4,5,5,30,2,,0.00,0.00,0.00,0,\N
+37,11122233P,Reinaldo,Aguilera,,jorge.fernandez@hacce.com,\N,2,4,1,5,31,2,,0.00,0.00,0.00,0,\N
+38,00000000T,Jose Manuel,Regueiro,,regueiro@gmail.com,\N,5,11,10,10,32,4,30,\N,\N,\N,0,\N
+39,78945612K,Robez,Rajo,,robez.hacce@gmail.com,\N,2,4,2,5,33,2,,250.00,0.00,0.00,1,3
+40,00112233Q,David,Constenla,,davidhacce@gmail.com,\N,2,4,1,5,34,2,,1337.55,1.57,0.00,0,\N
+41,36154270H,Alejandra,Salgueiro Vazquez,,alejandra.salgueiro@hacce.com,\N,2,4,5,9,35,2,,2536.00,1.40,0.00,1,1
+42,X6678256E,Sergio,Moreira,,sergio.moreira@hacce.com,\N,2,4,1,5,36,2,,1800.00,1.40,0.00,1,6
+43,36987452W,Jorge,Gonzalez,,jorge.gonzalez@hacce.com,\N,2,4,1,13,37,2,,0.00,0.00,0.00,1,4
+44,36111222A,Diego,Lago,,movilmail2011@gmail.com,\N,2,4,1,5,38,2,30,900.00,1.90,0.00,0,\N
+45,36113906L,Jose,Otero CerviÃ±o,,jose.otero@hacce.com,\N,2,4,1,9,39,2,,2550.00,1.40,0.00,1,7
+46,12457836R,Xan,Bellon,,xan.bellon@hacce.com,\N,2,4,1,5,40,2,30,1900.00,1.40,0.00,0,6
+47,12344444E,Tania,PiÃ±eiro,,tania.pineiro@hacce.com,\N,2,4,11,5,41,2,30,0.00,0.00,0.00,0,\N
+48,36120671E,Dayana,Gonzalez Rodriguez,,dayana.gonzalez@hacce.com,\N,2,4,5,9,42,2,30,2427.00,1.40,0.00,1,3
+49,36086250D,Juan A,Balado Riveiro,,juan.balado@hacce.com,\N,2,4,1,9,43,2,30,2417.00,1.40,0.00,1,2
+50,58963214T,Maria Saez,Fernandez,,marketing@seomsaez.es,\N,2,4,11,5,44,2,,22000.00,0.00,0.00,0,\N
+51,36134875N,Jose Oscar,Mendoza Carro,,oscar.mendoza@hacce.com,\N,2,4,1,9,45,2,,2380.00,1.40,0.00,1,6
+52,48523692V,Initios,SL,,raquel.santamaria@hacce.com,\N,2,4,1,5,46,2,,0.00,0.00,0.00,0,\N
+53,39457131X,Alejandro,Bernardez Araujo,,alejandro.bernardez@hacce.com,\N,2,4,1,5,47,2,30,0.00,0.00,0.00,1,3
+54,22333444F,Alicia,Alonso,,alicia.alonso@hacce.com,\N,2,4,5,5,48,2,30,0.00,0.00,0.00,0,3
+55,33225560J,Aaron,FariÃ±a,,aaron.farina@hacce.com,\N,2,4,1,5,49,2,30,1450.00,1.40,0.00,0,2
+56,35608514Y,Yago,Benitez de Miguel,,yago.benitez@hacce.com,\N,2,4,1,9,50,2,,2200.00,1.40,0.00,1,3
+57,00000001R,Alejandro,Rodriguez,,alexrma@gmail.com,\N,2,4,1,5,51,2,,1700.00,1.40,0.00,1,10
+58,32832148Q,Paula,Astudillo Vazquez,,paula.astudillo@hacce.com,\N,2,4,5,9,52,2,,2300.00,0.00,0.00,1,\N
+59,55555555K,Sergio2,Garcia Lopez,,sergio.garcia@hacce.com,\N,2,4,11,5,53,2,,1800.00,0.00,0.00,1,3
+60,53556724M,Jessica,Garrido Vega,,jessica.garrido@hacce.com,\N,2,4,1,9,54,2,,1950.00,1.40,0.00,0,3
+61,15485522J,Cendal,Jorge,,jorge.cendal@hacce.com,\N,2,4,1,11,55,2,,800.00,1.00,0.00,1,\N
+62,45678521S,Fonsi,FernÃ¡ndez,,alfonso.fernandez@hacce.com,\N,2,4,1,11,56,2,,0.00,0.00,0.00,0,\N
+63,39451831T,Breixo,Marino Malvido,,breixo.marino@hacce.com,\N,2,4,1,9,57,2,,2200.00,1.40,0.00,1,3
+64,22556333A,Juan,GarcÃ­a,,juan.garcia@hacce.com,\N,2,4,1,5,58,2,,1800.00,1.42,0.00,1,\N
+65,04565263Q,Silvino,Alvarez,,silvinoalvarez3@hotmail.com,\N,2,4,11,11,59,2,,0.00,0.00,0.00,0,\N
+66,15478523Y,Ricardo,Escanero,,ricardo.escanero@hacce.com,\N,2,4,11,5,60,2,,1800.00,1.00,0.00,1,6
+67,36171820L,Rodrigo,Andres CuÃ±arro,,rodrigo.deandres@hacce.com,\N,2,4,2,5,61,2,,1700.00,1.40,0.00,1,6
+68,01425863R,Moises,MuÃ±oz,,moises.munoz@hacce.com,\N,2,4,1,5,62,2,30,900.00,0.00,0.00,1,\N
+69,15525644T,Nina,Yarovenko,,nina.yarovenko@hacce.com,\N,2,4,1,11,63,2,,1000.00,0.00,0.00,1,\N
+70,36121849G,Xacobe,MartÃ­nez Arostegui,,xacobe.martinez@hacce.com,\N,2,4,1,14,64,2,30,900.00,1.00,0.00,1,\N
+71,36153945S,Sergio,Camba Alvarez,,sergio.camba@hacce.com,\N,2,4,1,9,65,2,,2385.00,1.40,0.00,1,\N
+72,36111111F,David,Rial,,hacce@hacce.com,\N,2,4,1,11,66,2,30,0.00,0.00,0.00,0,\N
+73,32000000P,Jandrito,Estevez Cominges,,alejandro.estevez@hacce.com,\N,2,4,11,13,67,2,30,2700.00,1.50,0.00,1,\N
+74,39454078Q,Luis Alberto,Lago Justo,,luis.lago@hacce.com,\N,2,4,11,11,68,2,30,0.00,0.00,0.00,1,\N
+75,35555222M,Gaspar,Alonso Pereira,,gaspar.alonso@hacce.com,\N,2,4,1,13,69,2,,2000.00,1.50,0.00,1,\N
+76,31444777M,Luis,Claro,,luisclarohacce@gmail.com,\N,2,4,1,11,70,2,,0.00,0.00,0.00,1,\N
+77,13788790Z,Carlos Alberto,Sobrino LusquiÃ±os,,carlos.sobrino@hacce.com,\N,2,4,1,9,71,2,,2200.00,1.40,0.00,1,\N
+78,39858747T,Pedro,Figueras,,pedro.figueras@hacce.com,\N,2,4,1,13,72,2,30,300.00,0.00,0.00,1,\N
+79,11111111H,Roi,Facal Castro,,roi.facal@hacce.com,\N,2,4,1,13,73,2,,0.00,0.00,0.00,1,\N
+80,78789289Y,Javier,Pardal,,javier.pardal@hacce.com,\N,2,4,1,13,74,2,,1800.00,1.50,0.00,1,3
+81,76862806A,Alberto,Prieto,,alberto.prieto@hacce.com,\N,2,4,1,13,75,2,,1200.00,1.50,0.00,1,3
+82,51081754L,Ana,BenÃ­tez,,ana.benitez@hacce.com,\N,2,4,2,13,76,2,,800.00,0.00,0.00,1,3
+83,79328165S,Carolina,Figueroa,,carolina.figueroa@hacce.com,\N,2,4,1,11,77,2,,800.00,1.40,0.00,1,6
+84,Y8375571C,Leonhard,Wiedmann,,leo@hacce.com,\N,2,4,1,9,78,2,,1850.00,1.00,0.00,1,2
+85,39467709P,Joshua,Rodriguez Martinha,,joshua.rodriguez@hacce.com,\N,2,4,1,11,79,2,30,600.00,0.00,0.00,1,2
+86,53182818X,Gabriela,Irisarri,,gabriela.irisarri@hacce.com,\N,2,4,1,11,80,2,,0.00,0.00,0.00,1,10
+87,53115918V,Marina,GonzÃ¡lez,,marina.gonzalez@hacce.com,\N,2,4,2,9,81,2,30,2000.00,1.50,0.00,1,17
+88,39456537Z,Joel,GÃ³mez CendÃ³n,,joel.gomez@hacce.com,\N,2,4,1,9,82,2,30,2000.00,1.40,0.00,1,11
+89,53179865R,Marcos,Redondo Rafales,,marcos.redondo@hacce.com,\N,2,4,1,9,83,2,,2200.00,1.40,0.00,1,\N
+90,77010675M,Samuel,Alonso Gil,,samuel.alonso@hacce.com,\N,2,4,1,5,84,2,30,1650.00,1.40,0.00,1,10
+91,53193585J,Miguel,OitabÃ©n Mazaira,,miguel.oitaben@hacce.com,\N,2,4,1,5,85,2,30,1650.00,1.50,0.00,1,\N
+92,53116905S,Manuel,Gago Otero,,manuel.gago@hacce.com,\N,2,4,1,9,86,2,30,2000.00,1.50,0.00,1,3
+93,73241196L,Jose Manuel,Perez Solla,,jose.perez@hacce.com,\N,2,4,1,9,87,2,30,1700.00,1.00,0.00,1,11
+94,36158313J,Sergio Costa,Rivas,,sergio.costa@hacce.com,\N,2,4,5,9,88,2,30,2100.00,1.50,0.00,1,1
+95,44083151V,Eduardo,ExpÃ³sito BaleirÃ³n,,eduardo.exposito@hacce.com,\N,2,4,5,14,89,2,,1700.00,1.50,0.00,1,3
+96,35304189V,Angel,Lorenzo Rivas,,angel.lorenzo@hacce.com,\N,2,4,1,9,90,2,30,1900.00,1.50,0.00,1,3
+97,39498042G,Jorge Centeno,MartiÃ¡Ã±ez,,jorge.centeno@hacce.com,\N,2,4,1,9,91,2,30,1700.00,1.50,0.00,1,3
+98,53613983V,Jero,Carvajal Seijo,,jeronimo.carvajal@hacce.com,\N,2,4,1,9,92,2,30,1700.00,1.50,0.00,1,3
+99,36043523Q,Orois,Jose Manuel GarcÃ­a,,josemanuel.orois@hacce.com,\N,2,4,11,9,93,2,,0.00,0.00,0.00,1,\N
